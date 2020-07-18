@@ -16,7 +16,10 @@ Screenshots (concept and experience), Video
 Installation process, e.g. step by step instructions that I can run the project after cloning it
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+* The used factory environment in this project I've used in another project before:
+ - https://github.com/smeerws/VRND-NightattheMuseum
+ - https://github.com/coursera-VRSpecialization/smeerws-ARVR-Studio 
+ - https://www.youtube.com/watch?v=4S7aneXMAQU&feature=emb_title
 
 ### Project state: 
 incl. progress in percent
